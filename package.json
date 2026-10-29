@@ -1,0 +1,7 @@
+{
+  "name": "githubactions_examples",
+  "version": "1.0.0",
+  "description": "Practica de GitHub Actions",
+  "main": "index.js",
+  "license": "ISC"
+}
